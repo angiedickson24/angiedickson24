@@ -12,10 +12,9 @@
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="angiedickson | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="angiedickson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="angi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="angeladickson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="angiedickson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/angie
-[instagram]: https://www.instagram.com/angie
-[linkedin]: https://linkedin.com/in/angie
+
+[instagram]: https://www.instagram.com/angiedickson
+[linkedin]: https://linkedin.com/in/angeladickson
