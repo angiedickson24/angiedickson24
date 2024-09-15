@@ -15,6 +15,4 @@
 [<img align="left" alt="angeladickson | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="angiedickson | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/angiedickson
-[linkedin]: https://linkedin.com/in/angeladickson
+[linkedin]: [https://linkedin.com/in/angeladickson](https://www.linkedin.com/in/angeladickson/)
