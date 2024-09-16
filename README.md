@@ -14,4 +14,4 @@
 
 (https://www.linkedin.com/in/angeladickson/)
 
-[linkedin]: [https://linkedin.com/in/angeladickson](https://www.linkedin.com/in/angeladickson/)
+
